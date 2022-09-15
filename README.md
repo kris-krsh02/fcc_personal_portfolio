@@ -9,7 +9,7 @@
 ## Features
 - CSS Grid
 - Fixed Navigation Bar
-- Elements resposive to the size of the viewport
+- Elements responsive to the size of the viewport
 
 ## Project Status
 Project is: _complete_.
